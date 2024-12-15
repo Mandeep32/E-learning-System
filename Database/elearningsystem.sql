@@ -65,7 +65,7 @@ CREATE TABLE `contact` (
 
 LOCK TABLES `contact` WRITE;
 /*!40000 ALTER TABLE `contact` DISABLE KEYS */;
-INSERT INTO `contact` VALUES (101,'Kishor Kadam','kadamk329@yahoo.com','7474747578','Hi, I want this portal code.',1),(101,'Kishor Balasaheb Kadam','kadamk33@gmail.com','19404308673','I need some help regarding this project.',2);
+INSERT INTO `contact` VALUES (101,'Mandeep Shishodia','mandeepsingh245301@gmail.com','7668180982','Hi, I want this portal code.',1),(101,'Mandeep Shishodia','mandeepsingh245301@gmail.com','19404308673','I need some help regarding this project.',2);
 /*!40000 ALTER TABLE `contact` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -122,7 +122,7 @@ CREATE TABLE `enroll_course` (
 
 LOCK TABLES `enroll_course` WRITE;
 /*!40000 ALTER TABLE `enroll_course` DISABLE KEYS */;
-INSERT INTO `enroll_course` VALUES (1,'Kishor Balasaheb Kadam','+917276763516','kadamk33@gmail.com','Online E-Learning','online education','2500');
+INSERT INTO `enroll_course` VALUES (1,'Mandeep Shishodia','+917668180982','mandeepsingh245301@gmail.com','Online E-Learning','online education','2500');
 /*!40000 ALTER TABLE `enroll_course` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -149,7 +149,7 @@ CREATE TABLE `feedback` (
 
 LOCK TABLES `feedback` WRITE;
 /*!40000 ALTER TABLE `feedback` DISABLE KEYS */;
-INSERT INTO `feedback` VALUES (101,'Kishor Balasaheb Kadam','kadamk33@gmail.com',1,'Hiiiiiiiiiiiii'),(101,'Kishor Kadam','kadamk329@yahoo.com',2,'Awesome course management portal.');
+INSERT INTO `feedback` VALUES (101,'Mandeep Shishodia','mandeepsingh245301@gmail.com',1,'Hiiiiiiiiiiiii'),(101,'Kishor Kadam','mandeepsingh245301@gmail.com',2,'Awesome course management portal.');
 /*!40000 ALTER TABLE `feedback` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -202,7 +202,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (101,'Kishor Balasaheb Kadam','+917276763516','kadamk33@gmail.com','Bhalawani,Ahmednagar,Maharashtra.','java@1991','F:/project-workspace/E-LearningSystem/WebContent/uploads/13.jpg','13.jpg','2021-09-02 18:20:09');
+INSERT INTO `user` VALUES (101,'Mandeep Shishodia','+917668180982','mandeepsingh245301@gmail.com','Dhaulana,Hapur Uttarpradesh.','java@1991','F:/project-workspace/E-LearningSystem/WebContent/uploads/13.jpg','13.jpg','2021-09-02 18:20:09');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
